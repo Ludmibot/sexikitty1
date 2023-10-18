@@ -98,16 +98,16 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 ⊜ *Experiencia ➟* ${exp} ⚡
 ⊜ *Diamantes ➟* ${limit} 💎
-⊜ *ZeroCoins ➟* ${money} 🛍️
+⊜ *ludmiCoins ➟* ${money} 🛍️
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE THEZEROBOT 〕⬣*
-┃💫➺ ${usedPrefix}creador ➺ zeroprecios ➺ zeroinfo
-┃💫➺ ${usedPrefix}creador ➺ Zero
-┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/59897463355
-┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/59897463355
+*╭━〔 INFORMACIÓN DE LudmiBot 〕⬣*
+┃💫➺ ${usedPrefix}creador ➺ ludmiprecios ➺ ludmiinfo
+┃💫➺ ${usedPrefix}creador ➺ LudmiBot
+┃💫➺ ${usedPrefix}numero de mi creador ➺ wa.me/5493813300744
+┃💫➺ ${usedPrefix}para comprar el bot ➺ wa.me/5493813300744
 ┃💫➺ ${usedPrefix}para ver precios del bot ➺ precios
-┃💫➺ ${usedPrefix}para ver información del bot ➺ zeroinfo
+┃💫➺ ${usedPrefix}para ver información del bot ➺ ludmiinfo
 ┃💫➺ ${usedPrefix}owner | owner
 ┃💫➺ ${usedPrefix}velocidad | ping
 ┃💫➺ Bot_ 
@@ -116,7 +116,7 @@ ${readMore}
 
 *╭━〔 FUNCIÓN SUB BOT 〕━⬣*
 ┃ *Ya puedes convertir tú*
-┃ *Número en TheZeroBot!!*
+┃ *Número en LudmiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃💻 _${usedPrefix}serbot | jadibot_
 ┃💻 _${usedPrefix}bots | listjadibots_
@@ -190,7 +190,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con TheZeroBot!!*
+┃ *Conversar con LudmiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -280,7 +280,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con TheZeroBot!!*
+┃ *Mejora tú Grupo con LudmiBot!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
